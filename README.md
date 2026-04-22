@@ -16,17 +16,15 @@ This is a simple Todo web application built using Python Flask and Docker.
 ## ⚙️ How to Run
 
 ```bash
-docker-compose up
-## ▶️ How to Run
-
-1. Clone the repository
+# 1. Clone the repository
 git clone https://github.com/sivanijbiju/python-todo-docker-app.git
 
-2. Navigate into project
+# 2. Navigate into project
 cd python-todo-docker-app
 
-3. Run the application
+# 3. Run the application
 docker-compose up
 
-4. Open in browser
+# 4. Open in browser
 http://localhost:5000
+```
